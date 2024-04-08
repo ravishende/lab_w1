@@ -1,12 +1,12 @@
-# Ravi Shende's User Page
+# User Page
 
 ## About Me
 Hello, I'm Ravi, a third year Computer Science major at UCSD. I hope to graduate in Spring 2025, then pursue a Masters in Computer Science. After university, I plan to become a Software Engineer. For information on my hard skills and relevant work, check out my [experience and preferences](#experience-and-preferences) or my [further work](#further-work).
 
 Here are some of my recent/current goals:
-- [x] Work for an internship using programming to do useful, research-oriented work.
-- [ ] Continue improving my coding/software development habits.
-- [ ] Get into a Master's Computer Science program at UCSD.
+  [x] Work for an internship using programming to do useful, research-oriented work.
+  [ ] Continue improving my coding/software development habits.
+  [ ] Get into a Master's Computer Science program at UCSD.
 
 
 For me, one of the most important factors in a large project is code readability and documentation.
