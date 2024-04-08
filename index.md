@@ -8,8 +8,10 @@ Here are some of my recent/current goals:
 - [ ] Continue improving my coding/software development habits.
 - [ ] Get into a Master's Computer Science program at UCSD.
 
+
 For me, one of the most important factors in a large project is code readability and documentation.
 > "The function of good software is to make complex appear simple" - Grady Booch
+
 
 ## Experience and Preferences
 I most commonly code in Python, but I am also familiar with the following **languages**:
@@ -21,6 +23,7 @@ Here are a few **tools** I am comfortable using:
 1. Git, github
 2. Vim
 3. Command line
+
 
 ## Further Work
 Outside of school, I do most of my coding for an internship at SDSC (San Diego Supercomputer Center). You can find more information on that [here](sdsc_internship.md). Find my github repository for that project [here](https://github.com/ravishende/grafana_data_retrieval). Feel free to `git clone` the repository and run `python3 main.py` for real time performance data on active BurnPro3D runs.
