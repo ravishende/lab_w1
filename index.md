@@ -1,4 +1,4 @@
-# User Page
+# Ravi's User Page
 
 ## About Me
 Hello, I'm Ravi, a third year Computer Science major at UCSD. I hope to graduate in Spring 2025, then pursue a Masters in Computer Science. After university, I plan to become a Software Engineer. For information on my hard skills and relevant work, check out my [experience and preferences](#experience-and-preferences) or my [further work](#further-work).
